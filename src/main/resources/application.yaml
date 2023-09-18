@@ -1,0 +1,16 @@
+
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    username: root
+    password: green502
+    url: jdbc:mariadb://192.168.0.144:3306/team_a
+
+mybatis:
+  type-aliases-package: com.green.nottodolist
+  mapper-locations: mapper/*.xml
+
+springdoc:
+  swagger-ui:
+    path: /swagger.html
+    tags-sorter: alpha
