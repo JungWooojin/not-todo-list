@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NotTodoList&fontSize=70)
 
-  <h3 align="center">we're made "NOT todo list" for studying collaboration project.</h3>
+<h3 align="center">we're made "NOT todo list" for studying collaboration project.</h3>
 
 🎬 <a href="https://youtu.be/CzT2oGXj4t0?si=YbmL_mkH2oKY80RZ">시연영상 보러가기 Click </a> <br />
 <img src=https://github.com/hyemdev/Project--NotTodoList/assets/131754425/af276264-9347-4d70-8e85-4807470a4e1e width=700>
@@ -20,7 +20,7 @@
 
 -발표자료 및 pdf
 <li>https://www.canva.com/design/DAFn76Ah8eo/xTm5zWyZ7COlKouk6wAaYg/view?utm_content=DAFn76Ah8eo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink</li>
-
+<br>
       
  
 
