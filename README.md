@@ -7,8 +7,6 @@
 
 🔭 프로젝트 개요<br><br> -기획의도
 
-<li>https://www.canva.com/design/DAFn76Ah8eo/xTm5zWyZ7COlKouk6wAaYg/view?utm_content=DAFn76Ah8eo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink</li>
-
 <li>현대인의 도파민중독을 해결하고자 자극적인거스 즐거운것만 좇게되는 문화를 되짚어보자</li>
 <li>인간관계에서도 상대방이 좋아하는 것을 하는 것 보다, 싫어하는 것을 하지않는 것이 큰 이점이 된다는 것.</li>
 <li>그래서 우리는 나쁜 습관으로 인해 허비되는 시간과 돈을 절약하고, 수치화시켜서 시각적으로 한눈에 볼 수 있게 표현을 하고자 한다.</li>
@@ -19,6 +17,9 @@
 <li>삶을 바꾸기 위한 사람들 </li>
 <li>갓생을 꿈꾸는 사람들</li>
 <li>혹은 인생의 좌절을 겪은 사람들도 조금 더 나은 삶을 위한 발돋움이 될 수 있을 것. </li><br>
+
+-발표자료 및 pdf
+<li>https://www.canva.com/design/DAFn76Ah8eo/xTm5zWyZ7COlKouk6wAaYg/view?utm_content=DAFn76Ah8eo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink</li>
 
 🌱 프로젝트 기간<br>
 
