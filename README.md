@@ -19,7 +19,7 @@
 <li>혹은 인생의 좌절을 겪은 사람들도 조금 더 나은 삶을 위한 발돋움이 될 수 있을 것. </li><br>
 
 -발표자료 및 pdf
-<a href=https://www.canva.com/design/DAFn76Ah8eo/xTm5zWyZ7COlKouk6wAaYg/view?utm_content=DAFn76Ah8eo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelinktarget="_blank">발표자료 및 PDF</a>
+<a href=https://www.canva.com/design/DAFn76Ah8eo/xTm5zWyZ7COlKouk6wAaYg/view?utm_content=DAFn76Ah8eo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink target="_blank">발표자료 및 PDF</a>
 
       
  
