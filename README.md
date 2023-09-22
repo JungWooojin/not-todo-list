@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NotTodoList&fontSize=70)
+
 <h3 align="center">we're made "NOT todo list" for studying collaboration project.</h3>
 
 🎬 <a href="https://youtu.be/CzT2oGXj4t0?si=YbmL_mkH2oKY80RZ">시연영상 보러가기 Click </a> <br />
