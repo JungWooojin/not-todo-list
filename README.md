@@ -78,7 +78,7 @@
 <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
 </div>
-
+<br>
 🎮 프로젝트 관리<br>
 <p>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -112,7 +112,7 @@
       post 없이 get/patch로만 구성된 컴포넌트이며, 새로운 문장을 입력하면 값이 갱신되도록 구성
 
   4.  Brief Section
-      쿼리로 시작하는 월과 끝나는 월 정보를 보내고(ant design의 range-picker사용), 그 기간에 해당하는 요약데이터를 받아온다. 확인하고싶은 기간의 간단한 통계요약을 텍스트로 확인 할 수 있다.
+      쿼리로 시작하는 월과 끝나는 월 정보를 받아서 출력하고, 그 기간에 해당하는 요약데이터를 보낸다. 확인하고싶은 기간의 간단한 통계요약을 텍스트로 확인 할 수 있다.
 
 - [calendar page]
 
