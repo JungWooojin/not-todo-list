@@ -7,7 +7,7 @@
 
 🔭 프로젝트 개요<br><br> -기획의도
 
-https://www.canva.com/design/DAFn76Ah8eo/xTm5zWyZ7COlKouk6wAaYg/view?utm_content=DAFn76Ah8eo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+<li>https://www.canva.com/design/DAFn76Ah8eo/xTm5zWyZ7COlKouk6wAaYg/view?utm_content=DAFn76Ah8eo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink</li>
 
 <li>현대인의 도파민중독을 해결하고자 자극적인거스 즐거운것만 좇게되는 문화를 되짚어보자</li>
 <li>인간관계에서도 상대방이 좋아하는 것을 하는 것 보다, 싫어하는 것을 하지않는 것이 큰 이점이 된다는 것.</li>
